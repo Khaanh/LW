@@ -1,0 +1,1 @@
+"use strict";var e=document.querySelectorAll(".js-accToggle");e.forEach((function(e){e.addEventListener("click",(function(){e.parentElement.classList.toggle("is-open")}))}));
